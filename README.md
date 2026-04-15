@@ -1,8 +1,16 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Trien. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+<br />
+
+Hi, I'm Trien, an IT HelpDesk specialist from Vietnam 🇻🇳. I focus on troubleshooting, user support, and system maintenance, with a goal of advancing further in the IT field.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
+
+
+
+
+
 
 ### GitHub Activity Graph
 <div align="center">
