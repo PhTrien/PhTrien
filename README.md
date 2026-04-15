@@ -2,15 +2,23 @@
 <div align="center">
 
   <h1>⚡ PH TRIEN (MHALE) ⚡</h1>
-  <h3>💻 IT HELPDESK | 🚀 FUTURE SYSTEM ADMINISTRATOR</h3>
 
-  <img src="https://camo.githubusercontent.com/9b0c0a7f3b3d9d0c0f3a6b2a7b3a9b9d6d5c6f7e8a9b0c1d2e3f4a5b6c7d8e9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d32322670617573653d3130303026636f6c6f723d3743334145442663656e7465723d74727565267643656e7465723d747275652677696474683d353030266c696e65733d49542b48656c704465736b2b5370656369616c6973743b53797374656d2b41646d696e697374726174696f6e2b4c6561726e65723b4e6574776f726b696e672b257c2b53656375726974792b456e7468757369617374" />
+  <img src="https://img.shields.io/badge/IT%20HELPDESK-💻-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/FUTURE%20SYSADMIN-🚀-blueviolet?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=IT+HelpDesk+Specialist;System+Administration+Learner;Networking+%7C+Security+Enthusiast" />
 
 </div>
 
 ---
 
-<!-- ABOUT + GIF -->
+<!-- ABOUT + GIF RIGHT EDGE -->
 <table width="100%">
 <tr>
 
@@ -30,7 +38,7 @@
 
 <td width="30%" align="right" valign="middle">
 
-<img src="https://camo.githubusercontent.com/0d6b7b1e2f9f3e8a6c5d4b3a2f1e0d9c8b7a6f5e4d3c2b1a0987654321abcdef/68747470733a2f2f6769746875622e636f6d2f626c61636b63617465722f626c61636b63617465722f7261772f6d61696e2f696d616765732f62616e6e65722e676966" width="220"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="220"/>
 
 </td>
 
@@ -47,7 +55,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cisco-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security-red?style=for-the-badge"/>
 </p>
 
@@ -69,10 +77,19 @@
 ---
 
 ### 🧠 Current Focus
-- 🖥️ Windows Server (AD, DNS, DHCP)
-- 🌐 Network configuration & VLAN
-- 🔐 Basic security & firewall (Sophos, Mikrotik)
-- ⚙️ System troubleshooting & monitoring
+- 🖥️ Windows Server (AD, DNS, DHCP)  
+- 🌐 Network configuration & VLAN  
+- 🔐 Firewall & security (Sophos, Mikrotik)  
+- ⚙️ System troubleshooting & monitoring  
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
