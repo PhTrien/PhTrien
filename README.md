@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  <h1>⚡ ELON TANG ⚡</h1>
+  <h1>Ph Trien</h1>
   <h3>💻 IT HELPDESK | 🚀 FUTURE SYSTEM ADMINISTRATOR</h3>
 
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
