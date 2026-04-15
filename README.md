@@ -1,16 +1,19 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Elon%20Tang-IT%20HelpDesk-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
+  <!-- Big Branding Title -->
+  <h1 style="font-size: 50px; margin-bottom: 0;">ELON TANG</h1>
+  <h3 style="margin-top: 5px;">🚀 IT HELPDESK • FUTURE SYSADMIN</h3>
 
-  <h1>🌌 Welcome to my universe!</h1>
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
 
 </div>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+<tr>
 
-<div>
+<td width="65%" valign="middle">
 
 ### 👨‍💻 About Me
 - 💼 IT HelpDesk professional based in Vietnam 🇻🇳  
@@ -22,10 +25,15 @@
 - 🎯 Goal: System Administrator / IT Engineer  
 - 🔐 Focused on building secure & reliable IT systems  
 
-</div>
+</td>
+
+<td width="35%" align="center" valign="middle">
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200"/>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
