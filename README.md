@@ -15,7 +15,7 @@
   <!-- SUB HEADER -->
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <!-- TYPING -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=IT+HelpDesk+Specialist;System+Administration+Learner;Networking+%7C+Security+Enthusiast" />
