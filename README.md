@@ -1,3 +1,6 @@
+<h1>⚡ ELON TANG ⚡</h1>
+<h3>IT HELPDESK • SYSTEM • NETWORK • SECURITY</h3>
+
 <h1>Hi 👋, I'm <span style="color:#7c3aed;">Elon Tang</span></h1>
 <h3>💻 IT HelpDesk | 🚀 Future System Administrator</h3>
 
