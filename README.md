@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/IT%20HELPDESK-💻-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/FUTURE%20SYSADMIN-🚀-blueviolet?style=for-the-badge&logo=linux&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <!-- SUB HEADER -->
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
