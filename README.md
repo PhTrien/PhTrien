@@ -1,61 +1,106 @@
-<!-- HEADER IMAGE -->
+<!-- HEADER IMAGE STYLE ANURAG -->
 <p align="center">
-  <a href="#">
-    <img width="80%" alt="Hello, I'm Ph Trien (Mhale). I work in IT!" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=200&section=header&text=PH%20TRIEN%20(MHALE)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  </a>
+  <img width="80%" alt="Hello, I'm Ph Trien (Mhale)" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=220&section=header&text=PH%20TRIEN%20(MHALE)&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<br />
+<div align="center">
 
-I'm a passionate IT HelpDesk from Vietnam 🇻🇳, aiming to become a System Administrator 🚀
+  <!-- ROLE BADGES -->
+  <img src="https://img.shields.io/badge/IT%20HELPDESK-💻-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/FUTURE%20SYSADMIN-🚀-blueviolet?style=for-the-badge&logo=linux&logoColor=white" />
 
----
+  <br><br>
 
-## **About me**
+  <!-- SUB HEADER -->
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20universe-✨-blueviolet?style=for-the-badge&logo=starship&logoColor=white" />
 
-- 💼 IT HelpDesk (focusing on system & network support)  
-- 🛠️ Strong in troubleshooting (PC, network, software issues)  
-- 🌐 Experience with TCP/IP, VLAN, DHCP, DNS  
-- 🖥️ Learning Windows Server (Active Directory, system management)  
-- 🔐 Interested in security, firewall (Sophos, Mikrotik)  
-- ⚡ Goal: Become a System Administrator / IT Engineer  
+  <br><br>
 
----
+  <!-- TYPING -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=IT+HelpDesk+Specialist;System+Administration+Learner;Networking+%7C+Security+Enthusiast" />
 
-## ⚙️ Skills & Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/networking/networking.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png"></code>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ABOUT + GIF RIGHT EDGE -->
+<table width="100%">
+<tr>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhTrien&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhTrien&layout=compact&theme=tokyonight&hide_border=true" /> |
-| ------------- | ------------- |
+<td width="70%" valign="middle">
+
+### 👨‍💻 About Me
+- 💼 IT HelpDesk based in Vietnam 🇻🇳  
+- 🛠️ Strong in troubleshooting (PC, network, software)  
+- 👨‍💻 End-user support & IT operations  
+- 🌐 Basic networking (TCP/IP, VLAN, DHCP, DNS)  
+- 🖥️ Learning Windows Server & system administration  
+- 🔐 Interested in system security & monitoring  
+- ⚡ Fast learner, responsible, problem-solver mindset  
+- 🎯 Goal: System Administrator / IT Engineer  
+
+</td>
+
+<td width="30%" align="right" valign="middle">
+
+<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="220"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🔥 Top Projects
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash,git,github" />
+</p>
 
-<a href="https://github.com/PhTrien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhTrien&repo=your-repo-name&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/PhTrien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhTrien&repo=your-second-repo&theme=tokyonight" />
-</a>
-
----
-
-## 🌐 Connect with me
-
-<a href="#"><img align="right" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" /></a>
-<a href="#"><img align="right" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-red?style=for-the-badge"/>
+</p>
 
 ---
 
-✨ *"From IT Support to System Mastery"* 🚀
+### 📊 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PhTrien&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PhTrien&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhTrien&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### 🧠 Current Focus
+- 🖥️ Windows Server (AD, DNS, DHCP)  
+- 🌐 Network configuration & VLAN  
+- 🔐 Firewall & security (Sophos, Mikrotik)  
+- ⚙️ System troubleshooting & monitoring  
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+🔥 *"From IT Support to System Mastery"* 🔥
+
+</div>
