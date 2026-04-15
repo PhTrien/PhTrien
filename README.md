@@ -7,14 +7,14 @@
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ### About Me
-- IT HelpDesk professional based in Vietnam 🇻🇳
-- Strong interest in technical support and system administration
-- Experienced in troubleshooting hardware, software, and network issues
-- Skilled in providing end-user support for daily IT operations
-- Continuously learning and improving skills in Windows Server, networking, and system security
-- Proactive, responsible, and eager to learn new technologies
-- Career goal: Become a System Administrator or IT Engineer
-- Committed to building and maintaining reliable and secure IT infrastructures
+IT HelpDesk professional based in Vietnam 🇻🇳
+Strong interest in technical support and system administration
+Experienced in troubleshooting hardware, software, and network issues
+Skilled in providing end-user support for daily IT operations
+Continuously learning and improving skills in Windows Server, networking, and system security
+Proactive, responsible, and eager to learn new technologies
+Career goal: Become a System Administrator or IT Engineer
+Committed to building and maintaining reliable and secure IT infrastructures
 
 
 ### GitHub Activity Graph
