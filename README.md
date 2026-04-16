@@ -92,18 +92,6 @@
 
 ---
 
-### 🔐 Security & Monitoring
-
-<p align="center">
-  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Antivirus" src="https://img.shields.io/badge/Endpoint_Security-%2300B140.svg?style=for-the-badge&logo=shield&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-%23CC0000.svg?style=for-the-badge&logo=zabbix&logoColor=white"></a>
-</p>
-
----
-
 <details open>
   <summary>🎧 Spotify Playing</summary>
   
