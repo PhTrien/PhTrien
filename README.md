@@ -75,7 +75,30 @@
   &emsp;
   <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="pfSense" src="https://img.shields.io/badge/pfSense-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white"></a>
+  <a href="#"><img alt="pfSense" src="https://img.shields.io/badge/RouterOSIT Support & Helpdesk Tools
+
+<p align="center">
+  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%23009BDE.svg?style=for-the-badge&logo=servicenow&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-%2303363D.svg?style=for-the-badge&logo=zendesk&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="TeamViewer" src="https://img.shields.io/badge/TeamViewer-%230E8EE9.svg?style=for-the-badge&logo=teamviewer&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-%23EF443B.svg?style=for-the-badge&logo=anydesk&logoColor=white"></a>
+</p>
+
+---
+
+### 🌐 Networking & Infrastructure
+
+<p align="center">
+  <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="pfSense" src="https://img.shields.io/badge/Mikrotik-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white"></a>
 </p>
@@ -177,11 +200,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Trien's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trien&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="Trien's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phtrien&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Trien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trien&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="Trien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtrien&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
 </p>
 
@@ -192,7 +215,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trien&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phtrien&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 </details>
@@ -203,7 +226,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=trien&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
+    <img src="https://github-trophies.vercel.app/?username=phtrien&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
   </a>
 </p>
 </details>
@@ -215,19 +238,19 @@
 <div align="center">
 
 <a href="https://github.com/trien/it-helpdesk-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=it-helpdesk-scripts&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=it-helpdesk-scripts&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/network-tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=network-tools&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=network-tools&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/automation-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=automation-scripts&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=automation-scripts&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/sysadmin-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=sysadmin-notes&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=sysadmin-notes&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
