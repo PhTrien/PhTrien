@@ -23,7 +23,7 @@
 
 <br><br>
 
-- 💼 I work as an **IT Helpdesk Specialist**
+- 💼 I work as an **IT Helpdesk**
 - 🖥️ I love using technology as a solution for every `Problem`
 - 🔧 Passionate about `troubleshooting`, `networking`, and `system support`
 - 📚 Always `learning new things` in the IT world
