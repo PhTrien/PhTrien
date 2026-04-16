@@ -19,7 +19,7 @@
 
 ## <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture><img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="250px"></picture>
 
 <br><br>
 
@@ -52,22 +52,6 @@
 
 ---
 
-### 🛠️ IT Support & Helpdesk Tools
-
-<p align="center">
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%23009BDE.svg?style=for-the-badge&logo=servicenow&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-%2303363D.svg?style=for-the-badge&logo=zendesk&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="TeamViewer" src="https://img.shields.io/badge/TeamViewer-%230E8EE9.svg?style=for-the-badge&logo=teamviewer&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-%23EF443B.svg?style=for-the-badge&logo=anydesk&logoColor=white"></a>
-</p>
-
----
-
 ### 🌐 Networking & Infrastructure
 
 <p align="center">
@@ -75,46 +59,9 @@
   &emsp;
   <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="pfSense" src="https://img.shields.io/badge/RouterOSIT Support & Helpdesk Tools
-
-<p align="center">
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%23009BDE.svg?style=for-the-badge&logo=servicenow&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-%2303363D.svg?style=for-the-badge&logo=zendesk&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="TeamViewer" src="https://img.shields.io/badge/TeamViewer-%230E8EE9.svg?style=for-the-badge&logo=teamviewer&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-%23EF443B.svg?style=for-the-badge&logo=anydesk&logoColor=white"></a>
-</p>
-
----
-
-### 🌐 Networking & Infrastructure
-
-<p align="center">
-  <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="pfSense" src="https://img.shields.io/badge/Mikrotik-%23212121.svg?style=for-the-badge&logo=pfsense&logoColor=white"></a>
+  <a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/mikrotik-%23212121.svg?style=for-the-badge&logo=mikrotik&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white"></a>
-</p>
-
----
-
-### 💻 Scripting & Automation
-
-<p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Batch" src="https://img.shields.io/badge/Batch_Script-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
 </p>
 
 ---
@@ -122,8 +69,6 @@
 ### <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Software & Productivity
 
 <p align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft&logoColor=white"></a>
@@ -132,9 +77,6 @@
   &emsp;
   <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 
 ---
@@ -146,9 +88,6 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
@@ -200,11 +139,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Trien's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phtrien&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="Trien's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trien&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Trien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtrien&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="Trien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trien&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
 </p>
 
@@ -215,7 +154,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phtrien&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trien&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 </details>
@@ -226,7 +165,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=phtrien&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
+    <img src="https://github-trophies.vercel.app/?username=trien&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
   </a>
 </p>
 </details>
@@ -238,19 +177,19 @@
 <div align="center">
 
 <a href="https://github.com/trien/it-helpdesk-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=it-helpdesk-scripts&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=it-helpdesk-scripts&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/network-tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=network-tools&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=network-tools&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/automation-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=automation-scripts&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=automation-scripts&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/trien/sysadmin-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phtrien&repo=sysadmin-notes&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trien&repo=sysadmin-notes&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
