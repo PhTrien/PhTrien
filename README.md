@@ -73,8 +73,6 @@
   &emsp;
   <a href="#"><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-  &emsp;
   <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"></a>
   &emsp;
 </p>
