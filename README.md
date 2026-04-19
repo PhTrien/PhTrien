@@ -71,7 +71,7 @@
 <p align="center">
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+  <a href="#"><img alt="VMware Workstation" src="https://img.shields.io/badge/VMware_Workstation-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"></a>
   &emsp;
