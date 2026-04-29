@@ -75,6 +75,14 @@
   &emsp;
   <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"></a>
   &emsp;
+  <img src="https://img.shields.io/badge/WinAIO_Maker-Professional-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
+  &emsp;
+  <img src="https://img.shields.io/badge/UltraISO-ISO_Editor-00ADEF?style=for-the-badge&logo=discogs&logoColor=white"/>
+  &emsp;
+  <img src="https://img.shields.io/badge/WinToolkit-Windows_Customizer-6A5ACD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  &emsp;
+  <img src="https://img.shields.io/badge/AnyBurn-Disc_Burning-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  &emsp;	
 </p>
 
 ---
