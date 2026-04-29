@@ -69,20 +69,19 @@
 ### <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Software & Productivity
 
 <p align="center">
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="VMware Workstation" src="https://img.shields.io/badge/VMware_Workstation-%23FF7F00.svg?style=for-the-badge&logo=vmware&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"></a>
-  &emsp;
-  <img src="https://img.shields.io/badge/WinAIO_Maker-808080?style=for-the-badge&logo=windows&logoColor=white"/>
-  &emsp;
-  <img src="https://img.shields.io/badge/UltraISO-5DADE2?style=for-the-badge&logo=discogs&logoColor=white"/>
-  &emsp;
-  <img src="https://img.shields.io/badge/WinToolkit-6C63FF?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  &emsp;
-  <img src="https://img.shields.io/badge/AnyBurn-FF8800?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-  &emsp;
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  &nbsp;
+  <a href="#"><img alt="VMware Workstation" src="https://img.shields.io/badge/VMware_Workstation-FF7F00?logo=vmware&logoColor=white"></a>
+  &nbsp;
+  <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white"></a>
+  &nbsp;
+  <img alt="WinAIO Maker" src="https://img.shields.io/badge/WinAIO_Maker-808080?logo=windows&logoColor=white"/>
+  &nbsp;
+  <img alt="UltraISO" src="https://img.shields.io/badge/UltraISO-5DADE2?logo=discogs&logoColor=white"/>
+  &nbsp;
+  <img alt="WinToolkit" src="https://img.shields.io/badge/WinToolkit-6C63FF?logo=microsoft&logoColor=white"/>
+  &nbsp;
+  <img alt="AnyBurn" src="https://img.shields.io/badge/AnyBurn-FF8800?logo=firefoxbrowser&logoColor=white"/>
 </p>
 
 ---
